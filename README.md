@@ -21,7 +21,7 @@ before bulk_create:
 
 getting the newly created items:
 ```
-<QuerySet [<Item: (31) 714893>, <Item: (32) 871190>, <Item: (33) 871068>, <Item: (34) 206753>, <Item: (35) 249027>]>
+<QuerySet [<Item: (1) 714893>, <Item: (2) 871190>, <Item: (3) 871068>, <Item: (4) 206753>, <Item: (5) 249027>]>
 ```
 
 see the code in `inserter/management/commands/bulk_insert.py`
